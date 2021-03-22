@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Computer Vision Research Intern
+    company: CEA LIST
+    company_url: 'https://kalisteo.cea.fr/index.php/ai/'
+    location: Palaiseau, France
+    date_start: '2021-04-06'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        Topics include:
+
+		* Deep Learning 
+        * Computer Vision
+        * Deep Multimodal representation, Zero-Shot Learning
+         
+  - title: Data Science Intern
+    company: Dotaki
+    company_url: 'https://www.dotaki.com/fr/'
+    location: Paris, France
+    date_start: '2020-06-15'
+    date_end: '2020-08-30'
+    description: User Authentication based on mouse dynamics using Deep Neural Networks.
+
+  - title: Machine Learning Research Intern
+    company: LIP6
+    company_url: 'https://www.lip6.fr/'
+    location: Paris, France
+    date_start: '2019-05-27'
+    date_end: '2019-07-20'
+    description: Exploring new clustering methods based on typicality degree and fuzzy prototypes.
 ---
