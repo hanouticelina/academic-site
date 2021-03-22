@@ -50,6 +50,5 @@ experience:
     date_start: '2019-05-27'
     date_end: '2019-07-20'
     description: Exploring new clustering methods based on typicality degree and fuzzy prototypes.
-​---
-
 ---
+
