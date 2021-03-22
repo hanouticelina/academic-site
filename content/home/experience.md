@@ -30,11 +30,11 @@ experience:
     date_end: ''
     description: |2-
         Topics include:
-
-		* Deep Learning 
+        
+        * Deep Learning
         * Computer Vision
         * Deep Multimodal representation, Zero-Shot Learning
-         
+        
   - title: Data Science Intern
     company: Dotaki
     company_url: 'https://www.dotaki.com/fr/'
@@ -50,4 +50,6 @@ experience:
     date_start: '2019-05-27'
     date_end: '2019-07-20'
     description: Exploring new clustering methods based on typicality degree and fuzzy prototypes.
+​---
+
 ---
